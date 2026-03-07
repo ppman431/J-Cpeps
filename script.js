@@ -28,8 +28,7 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GLP3-R-01"
-  }
-  const PRODUCTS = [
+  },
   {
     id: "item-1",
     name: "Product 1",
@@ -91,7 +90,6 @@ const PRODUCTS = [
     ref: "STP-06"
   }
 ];
-
 const els = {
   year: document.getElementById("year"),
   grid: document.getElementById("productGrid"),
