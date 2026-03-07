@@ -1,20 +1,20 @@
 const PRODUCTS = [
   {
     id: "glp3r-25",
-    name: "GLP3-R 2.5mg",
+    name: "GLP3-R 10mg",
     short: "GLP-3R Appetite & Metabolic Peptide - Injection",
     purity: "99%+ purity",
-    price: 25.0,
+    price: 75.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GLP3-R-01"
   },
   {
     id: "glp3r-50",
-    name: "GLP-3R 5.0mg",
+    name: "GLP-3R 20mg",
     short: "GLP-3R Appetite & Metabolic Peptide - Injection",
     purity: "99%+ purity",
-    price: 37.5,
+    price: 100.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GLP3-R-01"
@@ -30,24 +30,24 @@ const PRODUCTS = [
     ref: "GLP3-R-01"
   },
   {
-    id: "item-1",
-    name: "Product 1",
-    short: "Short product description here.",
+    id: "Ghkcu",
+    name: "Ghkcu 100mg",
+    short: "Copper peptide studied for collagen and tissue repair signaling - Vial ",
     purity: "99%+ purity",
-    price: 25.0,
+    price: 50.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
-    ref: "STP-01"
+    ref: "GHKCU"
   },
   {
-    id: "item-2",
-    name: "Product 2",
-    short: "Short product description here.",
+    id: "Klow",
+    name: "Klow",
+    short: "Peptide studied for tissue repair, inflammation reduction, and recovery support - Vial",
     purity: "99%+ purity",
-    price: 37.5,
+    price: 85.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
-    ref: "STP-02"
+    ref: "KLOW"
   },
   {
     id: "item-3",
