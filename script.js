@@ -2,7 +2,7 @@ const PRODUCTS = [
   {
     id: "glp3r-25",
     name: "GLP3-R 10mg",
-    short: "GLP-3R Appetite & Metabolic Peptide - Injection",
+    short: "GLP-3R Appetite & Metabolic Peptide",
     purity: "99%+ purity",
     price: 75.0,
     tag: "Featured",
@@ -12,8 +12,8 @@ const PRODUCTS = [
   },
   {
     id: "glp3r-50",
-    name: "GLP-3R 20mg",
-    short: "GLP-3R Appetite & Metabolic Peptide - Injection",
+    name: "GLP3-R 20mg",
+    short: "GLP-3R Appetite & Metabolic Peptide",
     purity: "99%+ purity",
     price: 100.0,
     tag: "Featured",
@@ -21,14 +21,14 @@ const PRODUCTS = [
     ref: "GLP3-R-01"
   },
   {
-    id: "glp3r-75",
-    name: "GLP-3R 7.5mg",
-    short: "GLP-3R Appetite & Metabolic Peptide - Injection",
+    id: "Cjc",
+    name: "Cjc ",
+    short: "Cjc Growth Hormone-Releasing Hormone",
     purity: "99%+ purity",
-    price: 50.0,
+    price: 75,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
-    ref: "GLP3-R-01"
+    ref: "CJC"
   },
   {
     id: "Ghkcu",
