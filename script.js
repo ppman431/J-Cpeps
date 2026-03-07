@@ -7,7 +7,8 @@ const PRODUCTS = [
     price: 75.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
-    ref: "GLP3-R-01"
+    ref: "GLP3-R-01",
+    img: "images/reta.png"
   },
   {
     id: "glp3r-50",
