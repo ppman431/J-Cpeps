@@ -150,9 +150,9 @@ function renderProducts(list) {
     card.innerHTML = `
       <div class="card__media">
         <div class="tag">${p.tag}</div>
-       <div class="productimg">
-  <img src="${p.img}" alt="${p.name}" style="width:100%;height:100%;object-fit:contain;">
-</div>
+        <div class="productimg">
+          <img src="${p.img}" alt="${p.name}" style="width:100%;height:100%;object-fit:contain;">
+        </div>
       </div>
       <div class="card__body">
         <div class="badgeRow">
@@ -163,9 +163,15 @@ function renderProducts(list) {
         <div class="card__meta">${p.purity}</div>
         <div class="card__foot">
           <div class="price">${money(p.price)}</div>
-          <button class="addbtn" data-add="${p.id}">
-            <span aria-hidden="true">🛒</span> Add
-          </button>
+          ${
+            p.link
+              ? `<a href="${p.link}" target="_blank" rel="noopener noreferrer" class="addbtn">
+                   <span aria-hidden="true">🛒</span> Buy
+                 </a>`
+              : `<button class="addbtn" data-add="${p.id}">
+                   <span aria-hidden="true">🛒</span> Add
+                 </button>`
+          }
         </div>
       </div>
     `;
