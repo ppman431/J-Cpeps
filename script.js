@@ -32,7 +32,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "CJC1295",
-    img: "CJC.png"
+    img: "CJC.png",
+    link: "https://square.link/u/O47iNauh"
   },
   {
     id: "GHKCu",
@@ -43,7 +44,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GHK-CU",
-    img: "GHK.png"
+    img: "GHK.png",
+    link: "https://square.link/u/tAbBq7wX"
   },
   {
     id: "Klow",
@@ -54,7 +56,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "KLOW",
-    img: "KLOW.png"
+    img: "KLOW.png",
+    link: "https://square.link/u/rWEAh4Hm"
   },
   {
     id: "Lipo-C",
@@ -65,7 +68,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "LIPO-C",
-    img: "Lipo.png"
+    img: "Lipo.png",
+    link: "https://square.link/u/EoT84Yzd"
     
   },
   {
@@ -77,7 +81,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GHRP-6",
-    img: "GHRP.png"
+    img: "GHRP.png",
+    link: "https://square.link/u/9ZPTKoZK"
   },
   {
     id: "Nad+",
@@ -88,7 +93,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "NAD+",
-    img: "Nad.png"
+    img: "Nad.png",
+    link: "https://square.link/u/zXYtr62r"
   }
 ];
 
