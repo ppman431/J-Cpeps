@@ -20,7 +20,8 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GLP3-R-01",
-    img: "GLP320.png"
+    img: "GLP320.png",
+    link: "https://square.link/u/kXtODAc1"
   },
   {
     id: "Cjc1295",
