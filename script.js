@@ -104,7 +104,7 @@ const PRODUCTS = [
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "Mots",
-    img: "Mot.png",
+    img: "Mots-c.png",
     soldOut: false
 ];
 
