@@ -84,7 +84,7 @@ const PRODUCTS = [
     soldOut: false
   },
   {
-    id: "Nad+",
+    id: "Nad+1000",
     name: "Nad+ 1000mg",
     short: "Boosts cellular energy (ATP), supports DNA repair, reduces inflammation, and may improve metabolism and cognitive function - Not for human consumption",
     purity: "99%+ purity",
