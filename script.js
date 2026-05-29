@@ -106,6 +106,7 @@ const PRODUCTS = [
     ref: "Mots",
     img: "Mots-c.png",
     soldOut: false
+  }
 ];
 
 const els = {
