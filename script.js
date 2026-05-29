@@ -57,7 +57,7 @@ const PRODUCTS = [
     badges: ["Research", "HPLC 99%"],
     ref: "KLOW",
     img: "KLOW.png",
-    soldOut: true
+    soldOut: false
   },
   {
     id: "GHRP-6",
@@ -76,13 +76,36 @@ const PRODUCTS = [
     name: "Nad+ 100mg",
     short: "Boosts cellular energy (ATP), supports DNA repair, reduces inflammation, and may improve metabolism and cognitive function - Not for human consumption",
     purity: "99%+ purity",
+    price: 35.0,
+    tag: "Featured",
+    badges: ["Research", "HPLC 99%"],
+    ref: "NAD+",
+    img: "Nad.png",
+    soldOut: false
+  },
+  {
+    id: "Nad+",
+    name: "Nad+ 1000mg",
+    short: "Boosts cellular energy (ATP), supports DNA repair, reduces inflammation, and may improve metabolism and cognitive function - Not for human consumption",
+    purity: "99%+ purity",
     price: 75.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "NAD+",
     img: "Nad.png",
-    soldOut: true
-  }
+    soldOut: false
+  },
+  {
+    id: "Mots",
+    name: "Mots 10mg",
+    short: "Acts like a cellular messenger to regulate your metabolism and energy use",
+    purity: "99%+ purity",
+    price: 75.0,
+    tag: "Featured",
+    badges: ["Research", "HPLC 99%"],
+    ref: "Mots",
+    img: "Mot.png",
+    soldOut: false
 ];
 
 const els = {
