@@ -40,7 +40,7 @@ const PRODUCTS = [
     name: "GHK-Cu 100mg",
     short: "Copper peptide studied for collagen and tissue repair signaling - Vial - Not for human consumption",
     purity: "99%+ purity",
-    price: 50.0,
+    price: 75.0,
     tag: "Featured",
     badges: ["Research", "HPLC 99%"],
     ref: "GHK-CU",
@@ -97,7 +97,7 @@ const PRODUCTS = [
   },
   {
     id: "Mots",
-    name: "Mots 10mg",
+    name: "Mots-c 10mg",
     short: "Acts like a cellular messenger to regulate your metabolism and energy use",
     purity: "99%+ purity",
     price: 75.0,
